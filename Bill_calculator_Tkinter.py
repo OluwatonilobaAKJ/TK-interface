@@ -1,5 +1,4 @@
 # This is a bill calculator
-
 import tkinter as tk
 
 def calculate_discount_percentage(total):
