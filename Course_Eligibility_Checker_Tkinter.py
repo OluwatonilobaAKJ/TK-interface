@@ -21,7 +21,7 @@ def check_course_eligibility():
         textbox["text"] = "Incorrect Value Entered"
 
 
-
+# Tkinter Window Application
 window = tk.Tk()
 window.geometry("400x210")
 window.title("Course Eligibility")
